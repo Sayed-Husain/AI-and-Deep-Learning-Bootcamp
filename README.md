@@ -3,12 +3,11 @@ Welcome to the AI and Deep Learning BootCamp repository created by Sayed Husain 
 
 
 ## Contents of this page
-- [Prerequisite]()
-- [This repo covers]()
-- [Links]()
-- [Course Foundation]() 
-- [Course Exercises]()
-- [Extra Optional Exercises]()
+- [Prerequisite](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#prerequisite)
+- [Course Overview](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp#course-overview)
+- [Links](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#links)
+- [Course Foundation](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#course-foundation)
+- **TBA**
 
 
 ## Prerequisite
