@@ -22,13 +22,13 @@ Before starting this bootcamp, please make sure you have the following:
 In this bootcamp, we will cover the following topics:
 
 1. **Introduction to Artificial Intelligence and Deep Learning**
-  - Understanding the differences between AI, ML, and DL.
-  - Exploring Narrow AI vs. General AI.
-  - The history of data and its significance in ML and DL.
-  - Contrasting typical programming with Machine Learning and Deep Learning.
+   - Understanding the differences between AI, ML, and DL.
+   - Exploring Narrow AI vs. General AI.
+   - The history of data and its significance in ML and DL.
+   - Contrasting typical programming with Machine Learning and Deep Learning.
 
 2. **Python for Data Science**
-  - Introduction to Python's Data Science packages such as Pandas, NumPy, and Matplotlib.
+   - Introduction to Python's Data Science packages such as Pandas, NumPy, and Matplotlib.
 
 3. **TBA**
 
