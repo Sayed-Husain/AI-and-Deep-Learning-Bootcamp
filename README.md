@@ -35,7 +35,7 @@ In this bootcamp, we will cover the following topics:
 
 
 ## Links
-* Find the **slides** of the bootcamp [**Here**]()
+* Find the **slides** of the bootcamp [**Here**](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Slides.pdf)
 * Access **Google Colab** [**Here**](https://colab.research.google.com/)
 * Explore W3School's Complete **Python** Reference [**Here**](https://www.w3schools.com/python/default.asp)
 * Discover W3School's Complete **Pandas** Reference [**Here**](https://www.w3schools.com/python/pandas/default.asp)
@@ -43,6 +43,14 @@ In this bootcamp, we will cover the following topics:
 * Find W3School's Complete **Matplotlib** Reference [**Here**](https://www.w3schools.com/python/matplotlib_intro.asp)
 * Discover the official **scikit-learn** Reference [**Here**](https://scikit-learn.org/stable/)
 * Access the official **TensorFlow** Reference [**Here**](https://www.tensorflow.org/tutorials)
+
+  
+## Course Foundation
+
+| index | Foundation Bulit | Datasets used | Data/Datasets Link | Notebook |
+| ----- |  ----- |  ----- |  ----- |  ----- |
+| 00 | Python basic skills | N/A | N/A | [Python Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Python%20Basics.ipynb) |
+
 
 
 
