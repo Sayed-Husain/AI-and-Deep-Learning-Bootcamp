@@ -28,9 +28,10 @@ In this bootcamp, we will cover the following topics:
    - Contrasting typical programming with Machine Learning and Deep Learning.
 
 2. **Python for Data Science**
+   - Introduction to Programming and Python's Fundamentals.
    - Introduction to Python's Data Science packages such as Pandas, NumPy, and Matplotlib.
 
-3. **TBA**
+4. **TBA**
 
 
 ## Links
