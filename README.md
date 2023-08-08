@@ -50,6 +50,8 @@ In this bootcamp, we will cover the following topics:
 | index | Foundation Bulit | Datasets used | Data/Datasets Link | Notebook |
 | ----- |  ----- |  ----- |  ----- |  ----- |
 | 00 | Python basic skills | N/A | N/A | [Python Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Python%20Basics.ipynb) |
+| 01 | Markdown basic skills | N/A | N/A | [Markdown Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Markdown.ipynb) |
+
 
 
 
