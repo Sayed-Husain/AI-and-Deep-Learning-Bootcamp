@@ -58,16 +58,18 @@ In this bootcamp, we will cover the following topics:
 
 | index | Notebook Name | Datasets used | Data/Datasets Link | Notebook |
 | ----- |  ----- |  ----- |  ----- |  ----- |
-| 00 | Python basic skills | N/A | N/A | [Python Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Python%20Basics.ipynb) |
-| 01 | Markdown basic skills | N/A | N/A | [Markdown Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Markdown.ipynb) |
+| 00 | EDA Reference | N/A | N/A | [`EDA_Reference.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/EDA_Reference.ipynb) |
+| 01 | Fifa Players EDA | `FIFA Players 2023 Dataset` | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/Fifa%2023%20Players%20Data.csv) | [`Fifa_Players_EDA.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Fifa_Players_EDA.ipynb) |
+| 02 | COVID-19 EDA | `COVID-19 Dataset` | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/country_wise_latest.csv) | [`Covid_EDA.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Covid_EDA.ipynb) |
 
 
 ## Datasets
 
-| Dataset Name | Description | Dataset Link | Dataset Source |
-|--------------|-------------|------|--------|
-| FIFA Players 2023 Dataset    | 2023 FIFA players dataset. | [Copy This](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/Fifa%2023%20Players%20Data.csv) | [Kaggle](https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset) |
-| COVID-19 Dataset    | COVID-19 global case statistics. | [Copy This](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/country_wise_latest.csv) | [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?datasetId=494766&sortBy=voteCount&searchQuery=eda&select=country_wise_latest.csv) |
+| index | Dataset Name | Description | Dataset Link | Dataset Source |
+| ----- |--------------|-------------|------|--------|
+| 00 | FIFA Players 2023 Dataset    | 2023 FIFA players dataset. | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/Fifa%2023%20Players%20Data.csv) | [Kaggle](https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset) |
+| 01 | COVID-19 Dataset    | COVID-19 global case statistics. | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/country_wise_latest.csv) | [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?datasetId=494766&sortBy=voteCount&searchQuery=eda&select=country_wise_latest.csv) |
+
 
 
 
