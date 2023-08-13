@@ -7,7 +7,8 @@ Welcome to the AI and Deep Learning BootCamp repository created by Sayed Husain 
 - [Course Overview](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp#course-overview)
 - [Links](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#links)
 - [Course Foundation](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#course-foundation)
-- **TBA**
+- [Data Science](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#data-science)
+- [Datasets](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#datasets)
 
 
 ## Prerequisite
@@ -51,6 +52,28 @@ In this bootcamp, we will cover the following topics:
 | ----- |  ----- |  ----- |  ----- |  ----- |
 | 00 | Python basic skills | N/A | N/A | [Python Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Python%20Basics.ipynb) |
 | 01 | Markdown basic skills | N/A | N/A | [Markdown Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Markdown.ipynb) |
+
+
+## Data Science 
+
+| index | Notebook Name | Datasets used | Data/Datasets Link | Notebook |
+| ----- |  ----- |  ----- |  ----- |  ----- |
+| 00 | Python basic skills | N/A | N/A | [Python Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Python%20Basics.ipynb) |
+| 01 | Markdown basic skills | N/A | N/A | [Markdown Notebook](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Markdown.ipynb) |
+
+
+## Datasets
+
+| Dataset Name | Description | Dataset Link | Dataset Source |
+|--------------|-------------|------|--------|
+| FIFA Players 2023 Dataset    | 2023 FIFA players dataset. | [Copy This](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/Fifa%2023%20Players%20Data.csv) | [Kaggle](https://www.kaggle.com/datasets/sanjeetsinghnaik/fifa-23-players-dataset) |
+| COVID-19 Dataset    | COVID-19 global case statistics. | [Copy This](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/country_wise_latest.csv) | [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?datasetId=494766&sortBy=voteCount&searchQuery=eda&select=country_wise_latest.csv) |
+
+
+
+
+
+
 
 
 
