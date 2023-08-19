@@ -44,6 +44,8 @@ In this bootcamp, we will cover the following topics:
 * Find W3School's Complete **Matplotlib** Reference [**Here**](https://www.w3schools.com/python/matplotlib_intro.asp)
 * Discover the official **scikit-learn** Reference [**Here**](https://scikit-learn.org/stable/)
 * Access the official **TensorFlow** Reference [**Here**](https://www.tensorflow.org/tutorials)
+* Access  **Kaggle** website from here [**Here**](https://www.kaggle.com/)
+
 
   
 ## Course Foundation
