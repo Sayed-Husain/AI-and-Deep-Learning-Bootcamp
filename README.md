@@ -30,6 +30,7 @@ Let's unlock the potential of AI and Deep Learning together. Start exploring, ex
 - [Course Foundation](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#course-foundation)
 - [Data Science](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#data-science)
 - [Machine Learning](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/README.md#machine-learning)
+- [Deep Learning](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/README.md#deep-learning)
 - [Datasets](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#datasets)
 
 
@@ -59,6 +60,10 @@ In this bootcamp, we will cover the following topics:
     - Exploring various machine learning concepts and techniques.
     - Hands-on experience with real-world datasets and case studies.
 
+4. **Deep Learning**
+    - Understanding the fundamentals of deep learning architectures and neural networks.
+    - Practical implementation of deep learning models using TensorFlow.
+    - Delving into advanced concepts such as convolutional neural networks (CNNs) and Transfer Learning.
 
 ## Links
 * Find the **slides** of the bootcamp [**Here**](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Slides.pdf)
@@ -70,6 +75,7 @@ In this bootcamp, we will cover the following topics:
 * Discover the official **scikit-learn** Reference [**Here**](https://scikit-learn.org/stable/)
 * Access the official **TensorFlow** Reference [**Here**](https://www.tensorflow.org/tutorials)
 * Access  **Kaggle** website from here [**Here**](https://www.kaggle.com/)
+* Find this amazing source to understand CNN models at [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
 
 
   
@@ -104,6 +110,16 @@ In this bootcamp, we will cover the following topics:
 | 05 | Titanic - Machine Learning from Disaster | `Titanic Dataset` | [**Download This**](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/raw/main/Data/titanic.zip) | [`Titanic.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Titanic.ipynb) |
 
 
+## Deep Learning Learning 
+
+| index | Notebook Name | Datasets used | Data/Datasets Link | Notebook |
+| ----- |  ----- |  ----- |  ----- |  ----- |
+| 00 | DL Basics | N/A | N/A | [`DL_Basics.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/DL_basics.ipynb) |
+| 01 | TF Regression | N/A | N/A | [`TF Regression.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/TF_Regression.ipynb) |
+| 02 | TF Classification | N/A | N/A | [`TF Classification.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/TF_Classification.ipynb) |
+| 03 | Advanced Deep Learning | `Cats vs. Dogs` | N/A | [`Advanced_concepts.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Advanced_concepts.ipynb) |
+
+
 
 ## Datasets
 
@@ -113,6 +129,7 @@ In this bootcamp, we will cover the following topics:
 | 01 | COVID-19 Dataset    | COVID-19 global case statistics. | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/country_wise_latest.csv) | [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?datasetId=494766&sortBy=voteCount&searchQuery=eda&select=country_wise_latest.csv) |
 | 02 | [`Iris Flowers Dataset`](https://en.wikipedia.org/wiki/Iris_flower_data_set) | Dataset Containing 3 different iris flowers and their attributes | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/IRIS.csv) | [Kaggle](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) |
 | 03 | Heart Disease Dataset | Dataset of patients and whether they have heart disease or not| [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/heart_disease.csv) | [UC Irvine](http://archive.ics.uci.edu/dataset/45/heart+disease) |
-| 04 | Car Sales Dataset | Dataset of previosuly sold cars including some attributes and price| [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/car-sales.csv) | N/A |
+| 04 | Car Sales Dataset | Dataset of previously sold cars including some attributes and price| [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/car-sales.csv) | N/A |
 | 05 | [`MNIST Dataset`](https://en.wikipedia.org/wiki/MNIST_database) | Hand Written Digits| [**`Train dataset`**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/mnist_train.csv) & [**`Test dataset`**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/mnist_test.csv) | Available |
 | 06 | Titanic Dataset | Titanic Ship passengers and survivors | [**Download This**](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/raw/main/Data/titanic.zip) | [Kaggle](https://www.kaggle.com/competitions/titanic/overview) |
+| 07 | Cats vs. Dogs | Large sample of images of cats and dogs | N/A | [TensorFlow Website](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) |
