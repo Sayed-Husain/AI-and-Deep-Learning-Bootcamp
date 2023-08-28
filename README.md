@@ -118,6 +118,14 @@ In this bootcamp, we will cover the following topics:
 | 01 | TF Regression | N/A | N/A | [`TF Regression.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/TF_Regression.ipynb) |
 | 02 | TF Classification | N/A | N/A | [`TF Classification.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/TF_Classification.ipynb) |
 | 03 | Advanced Deep Learning | `Cats vs. Dogs` | N/A | [`Advanced_concepts.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Advanced_concepts.ipynb) |
+| 04 | Natrual Language Processing | `IMDB Dataset` | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/IMDB%20Dataset.csv) | [`NLP.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/NLP.ipynb) |
+
+
+## Future of AI
+
+| index | Notebook Name | Notebook |
+| ----- |  ----- |  ----- |  
+| 00 | Future of AI | [`Future_of_Ai.ipynb`](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Notebooks/Future_of_Ai.ipynb) |
 
 
 
@@ -133,3 +141,18 @@ In this bootcamp, we will cover the following topics:
 | 05 | [`MNIST Dataset`](https://en.wikipedia.org/wiki/MNIST_database) | Hand Written Digits| [**`Train dataset`**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/mnist_train.csv) & [**`Test dataset`**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/mnist_test.csv) | Available |
 | 06 | Titanic Dataset | Titanic Ship passengers and survivors | [**Download This**](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/raw/main/Data/titanic.zip) | [Kaggle](https://www.kaggle.com/competitions/titanic/overview) |
 | 07 | Cats vs. Dogs | Large sample of images of cats and dogs | N/A | [TensorFlow Website](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) |
+| 08 | IMDB Dataset | IMDB Dataset of 50K Movie Reviews | [**Copy This**](https://raw.githubusercontent.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/main/Data/IMDB%20Dataset.csv) | [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) |
+
+
+## Conclusion
+
+Congratulations on completing the AI and Deep Learning Bootcamp! Throughout this journey, you've delved into the fascinating world of artificial intelligence and deep learning, gaining valuable insights and practical skills along the way. From the fundamentals of machine learning and neural networks to more advanced techniques like convolutional neural networks and transfer learning, you've acquired a strong foundation to tackle real-world challenges.
+
+As you reflect on your achievements, remember that this is just the beginning. The field of AI and deep learning is rapidly evolving, and the skills you've acquired here will empower you to contribute to its growth and innovation. Whether you're interested in solving complex problems, creating intelligent applications, or exploring the ethical considerations of AI, your journey is filled with limitless possibilities.
+
+As you continue your learning journey, keep in mind the importance of staying curious, exploring new ideas, and collaborating with others. The AI community is vibrant and supportive, offering a wealth of resources, research, and opportunities for growth. We encourage you to build upon the knowledge you've gained here and explore the exciting frontiers of AI and deep learning.
+
+Thank you for being part of the AI and Deep Learning Bootcamp. Your dedication and enthusiasm inspire us, and we can't wait to see the incredible contributions you'll make to the world of AI. Keep learning, exploring, and pushing the boundaries of what's possible!
+
+**Sayed Husain Mohamed**
+
