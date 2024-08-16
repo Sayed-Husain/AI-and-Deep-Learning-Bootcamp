@@ -27,6 +27,8 @@ Let's unlock the potential of AI and Deep Learning together. Start exploring, ex
 - [Prerequisite](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#prerequisite)
 - [Course Overview](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp#course-overview)
 - [Links](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#links)
+- [Get In Touch](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#get-in-touch)
+- [ML Demo](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#ml-demo)
 - [Course Foundation](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#course-foundation)
 - [Data Science](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#data-science)
 - [Machine Learning](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/README.md#machine-learning)
@@ -77,6 +79,17 @@ In this bootcamp, we will cover the following topics:
 * Access  **Kaggle** website from here [**Here**](https://www.kaggle.com/)
 * Find this amazing source to understand CNN models at [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
 
+## Get in Touch!
+If you have any questions about the course materials, feel free to reach out anytime!
+Email: sayed@sayed-husain.dev
+
+## ML Demo
+
+| index | Demo Model | Link | 
+| ----- |  ----- |  ----- | 
+| 00 | Human Body Segmentation Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/segmentationmodel.html) |
+| 01 | Object Detection Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/objectdetection.html) |
+| 02 | Face Recognition Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/facemodel.html) |
 
   
 ## Course Foundation
