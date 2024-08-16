@@ -77,6 +77,13 @@ In this bootcamp, we will cover the following topics:
 * Access  **Kaggle** website from here [**Here**](https://www.kaggle.com/)
 * Find this amazing source to understand CNN models at [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
 
+## ML Demo
+
+| index | Demo Model | Link | 
+| ----- |  ----- |  ----- | 
+| 00 | Human Body Segmentation Demo | [File](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/segmentationmodel.html) |
+| 01 | Object Detection Demo | [File](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/objectdetection.html) |
+| 02 | Face Recognition Demo | [File](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/facemodel.html) |
 
   
 ## Course Foundation
