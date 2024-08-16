@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML5.js Face Recognition Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        #face-recognition {
+            text-align: center;
+        }
+
+        #video-container {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>ML5.js Human Body Segmentation Demo</h1>
+    <div id="face-recognition">
+        <h2>Human Body Position Detection and Segmentation</h2>
+        <p>Allow access to your camera to see real-time Human Body Segmentation.</p>
+        <div id="video-container">
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="https://unpkg.com/ml5@0.12.2/dist/ml5.min.js"></script>
+    <script>
+
+
+    let bodypix;
+    let video;
+    let segmentation;
+
+    const options = {
+      outputStride: 8, // 8, 16, or 32, default is 16
+      segmentationThreshold: 0.3, // 0 - 1, defaults to 0.5
+    };
+
+    function preload() {
+      bodypix = ml5.bodyPix(options);
+    }
+
+    function setup() {
+      canvas = createCanvas(320, 240);
+      canvas.parent('#video-container');
+      // load up your video
+      video = createCapture(VIDEO, videoReady);
+      video.size(width, height);
+      video.parent('#video-container');
+
+    }
+
+    function videoReady() {
+      bodypix.segment(video, gotResults);
+    }
+
+    function draw() {
+      background(0);
+      if (segmentation) {
+        image(segmentation.backgroundMask, 0, 0, width, height);
+      }
+    }
+
+    function gotResults(error, result) {
+      if (error) {
+        console.log(error);
+        return;
+      }
+      segmentation = result;
+      bodypix.segment(video, gotResults);
+    }
+
+
+    </script>
+</body>
+</html>
