@@ -27,7 +27,7 @@ Let's unlock the potential of AI and Deep Learning together. Start exploring, ex
 - [Prerequisite](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#prerequisite)
 - [Course Overview](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp#course-overview)
 - [Links](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#links)
-- [ML Demo](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#get-in-touch)
+- [Get In Touch](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#get-in-touch)
 - [ML Demo](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#ml-demo)
 - [Course Foundation](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#course-foundation)
 - [Data Science](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/tree/main#data-science)
