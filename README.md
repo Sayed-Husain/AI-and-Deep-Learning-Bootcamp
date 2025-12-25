@@ -85,12 +85,10 @@ Email: sayed@sayed-husain.dev
 
 ## ML Demo
 
-| index | Demo Model | Link | 
-| ----- |  ----- |  ----- | 
-| 00 | Human Body Segmentation Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/segmentationmodel.html) |
-| 01 | Object Detection Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/objectdetection.html) |
-| 02 | Face Recognition Demo | [Demo File Link](https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp/blob/main/Demo/facemodel.html) |
-
+| Index | Demo Name | Description | Link |
+|------:|----------|-------------|------|
+| 00 | Teachable Machine | Train simple ML models directly in the browser (image, audio, pose) | [Open Demo](https://teachablemachine.withgoogle.com/v1/) |
+| 01 | ML Playground | Interactive playground to visualize and experiment with ML concepts | [Open Demo](https://ml-playground.com/) |
   
 ## Course Foundation
 
